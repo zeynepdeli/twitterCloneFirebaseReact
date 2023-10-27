@@ -13,3 +13,4 @@
  * Başka kullanıcılar tarafından paylaşılan gönderileri retweetleyebilir.
 
 # Önizleme
+![ezgif com-video-to-gif (5)](https://github.com/zeynepdeli/twitterCloneFirebaseReact/assets/129688573/ad178e15-fcc8-4114-b493-52ad7194d9b2)
