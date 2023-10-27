@@ -1,8 +1,15 @@
-# React + Vite
+# TwitterCloneFirebase
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- Bu proje, React ve Firebase kullanılarak geliştirilen bir Twitter klonudur. Kullanıcılar, e-posta ve Google hesapları ile giriş yapabilir.
 
-Currently, two official plugins are available:
+- Kullanıcılar etkileşimde bulunmak ve özellikleri kullanmak için aşağıdaki adımları takip edebilir:
+  
+ * Ana sayfada gönderileri inceleyebilir ve yeni gönderiler paylaşabilir.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+ * Paylaşılan gönderilerin üzerine tıklayarak daha fazla ayrıntıya erişebilir.
+ 
+ * Gönderileri beğenebilir veya beğenmekten vazgeçebilir.
+
+ * Başka kullanıcılar tarafından paylaşılan gönderileri retweetleyebilir.
+
+# Önizleme
